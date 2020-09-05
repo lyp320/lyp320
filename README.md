@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyp320&show_icons=true)](https://github.com/lyp320)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyp320&layout=compact)](https://github.com/lyp320)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lyp320&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
